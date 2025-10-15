@@ -17,9 +17,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Momentum",
+  title: "Optimum",
   description:
-    "AI Powered TODO Service with AI Agents",
+    "AI Powered Quiz App with AI Agents",
   keywords: [
     "Momentum app",
     "Momentum app",

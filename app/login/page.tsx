@@ -57,13 +57,13 @@ export default function LoginPage() {
           Нет аккаунта? <Link href="/signup" className="underline">Зарегистрируйтесь →</Link>
         </span>
       }
-      rightImageSrc="/auth-login.png"
+      rightImageSrc="/auth/main.png"
       quote={{
         text:
-          "Momentum помогает сфокусироваться на главном и ускоряет командную работу.",
-        authorName: "Александр Гришин",
-        authorTitle: "Grishinium Blockchain CEO",
-        authorAvatarSrc: "/avatars/grishin.png",
+          "Я знаю, что ничего не знаю. Но после этой викторины - чуть-чуть больше",
+        authorName: "Сократ, с надеждой",
+        authorTitle: "Философ",
+        authorAvatarSrc: "/avatars/socrat.webp",
       }}
     >
       <form className="space-y-4" onSubmit={onSubmit}>

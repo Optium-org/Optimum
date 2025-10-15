@@ -73,10 +73,10 @@ export default function SignupPage() {
       rightImageSrc="/auth-signup.png"
       quote={{
         text:
-          "Momentum помогает сфокусироваться на главном и ускоряет командную работу.",
-        authorName: "Александр Гришин",
-        authorTitle: "Grishinium Blockchain CEO",
-        authorAvatarSrc: "/avatars/grishin.png",
+          "Я знаю, что ничего не знаю. Но после этой викторины - чуть-чуть больше",
+        authorName: "Сократ",
+        authorTitle: "Философ",
+        authorAvatarSrc: "/avatars/socrat.webp",
       }}
     >
       <form className="space-y-4" onSubmit={onSubmit}>
